@@ -4,3 +4,19 @@
     font-weight: normal;
     font-style: normal;
 }
+
+        body, html {
+            height: 100%;
+            margin: 200;
+            background-color: #FFFEF2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-family: 'Goudy Bookletter 1911', Garamond, serif;
+        }
+        .bertie {
+            font-size: 64px;
+        }
+        .coming-soon {
+            font-size: 32px; /* Adjust if needed */
+        }
