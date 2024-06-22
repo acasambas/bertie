@@ -8,7 +8,11 @@
             font-family: 'Goudy Bookletter 1911', serif;
         }
         .header_text {
-            font-size: 64px;
+                font-size: 64px;
+                padding-top: 50px;
+                padding-right: 30px;
+                padding-bottom: 50px;
+
         }
         .body_text {
             font-size: 32px; /* Adjust if needed */
